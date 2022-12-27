@@ -3,7 +3,7 @@ import {css} from 'lit';
 export const gameCSS = css`
             :host {
                 width: 100%;
-                --primary-color: #09a5ff;
+                --primary-color: #ff09b5;
                 display: flex;
                 flex-direction: column;
                 justify-content: stretch;
